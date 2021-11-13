@@ -123,7 +123,7 @@ code {
 
 @media screen and (max-width: 500px) {
   body {
-    font-size: 14px;
+    font-size: 16px;
   }
   .container__card {
     margin: auto 1.5rem;
